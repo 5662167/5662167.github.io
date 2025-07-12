@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     
     if (message.includes("contacto") || message.includes("email") || message.includes("hablar") || message.includes("llamar")) {
-      return "Puedes contactarme directamente:\n\n📧 Email: clibotcom@gmail.com\n💬 WhatsApp: Disponible para clientes\n🕒 Horario: 24/7 (respuesta automática)\n\nTambién puedes escribirme directamente por Telegram: @clibotassistant_bot\n\n¿Prefieres que te llame o te envío más información por email?";
+      return "Puedes contactarme directamente:\n\n📧 Email: clibotcom@gmail.com\n💬 WhatsApp: Disponible para clientes\n🕒 Horario: 24/7 (respuesta automática)\n\nTambién puedes escribirme directamente por Telegram: @ClIAA_bot\n\n¿Prefieres que te llame o te envío más información por email?";
     }
     
     if (message.includes("whatsapp") || message.includes("telegram") || message.includes("canales")) {
